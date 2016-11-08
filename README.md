@@ -35,3 +35,4 @@ in real-time.
 
 Link: 	http://www.lib.ncsu.edu/resolver/1840.16/11399
 Video Demo: https://youtu.be/HMF_wyXZJ8M
+Motivation and Early work: https://youtu.be/f0LnZkrKQsY
